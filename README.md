@@ -11,6 +11,8 @@ Steps to get going
 5) If you intend to use AppDB, make sure to also add a `proxyId` to the `manifest.json` file in your `public` folder. See [documentation](https://developer.domo.com/docs/dev-studio/step4#Set%20Up%20Your%20Proxy) for more info.
 
 # cra-template
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDomoApps%2Fcra-template.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDomoApps%2Fcra-template?ref=badge_shield)
+
 
 This is the official base template for [Create React App](https://github.com/facebook/create-react-app).
 
@@ -20,3 +22,7 @@ For more information, please refer to:
 
 - [Getting Started](https://create-react-app.dev/docs/getting-started) – How to create a new app.
 - [User Guide](https://create-react-app.dev) – How to develop apps bootstrapped with Create React App.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDomoApps%2Fcra-template.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDomoApps%2Fcra-template?ref=badge_large)
